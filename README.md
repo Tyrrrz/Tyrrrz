@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-I'm an open source developer, tech blogger and speaker. I love creating things that make life simpler.
+My name's Alexey, I do open source for fun. I also have a [blog](https://tyrrrz.me/blog) and a [Twitter](https://twitter.com/Tyrrrz) account. If you're relying on the projects I maintain, consider [donating](https://tyrrrz.me/donate) to keep the development alive. ✨
 
-[Twitter](https://twitter.com/Tyrrrz) •
-[LinkedIn](https://linkedin.com/in/Tyrrrz) •
-[Blog](https://tyrrrz.me/blog) •
-[Support](https://tyrrrz.me/donate)
+If you have a question, feature suggestion, or a bug report, please open an issue in the corresponding repository. If you want to contact me personally about unrelated matters, message me on Twitter. Don't message me personally to ask for support on a project, create an issue instead. 🐛
 
-![Numbers jerk off](https://github-readme-stats.vercel.app/api?username=Tyrrrz&show_icons=true)
+Remember, open source is not commercial software development. The projects I share here are just tools I've built for myself to make my life better. Be mindful and respect the time that I (and every other contributor) provide to the community free of charge. 💜
