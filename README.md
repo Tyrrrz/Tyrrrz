@@ -6,7 +6,9 @@
 
 My name's **Alexey** and I do open source for fun. The projects I have here are just things I've built at one point or another to make my life easier. Hopefully they can be useful to you as well 😉
 
-If you want to support my open source activities, consider [making a donation](https://tyrrrz.me/donate) 💛
+💛 If you want to support my open source activities, consider [making a donation](https://tyrrrz.me/donate)
+
+💬 If you want to chat, join my [Discord server](https://discord.gg/2SUWKFnHSm)
 
 <hr />
 
