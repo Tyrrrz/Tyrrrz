@@ -3,6 +3,7 @@
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://tyrrrz.me/blog)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tyrrrz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tyrrrz)
+[![Fuck Russia](https://img.shields.io/badge/FUCK-RUSSIA-000000?style=for-the-badge&logoColor=white)](https://twitter.com/Tyrrrz/status/1495972128977571848)
 
 My name's **Oleksii** and I do open source for fun. The projects I have here are just things I've built at one point or another to make my life easier. Hopefully they can be useful to you as well 😉
 
