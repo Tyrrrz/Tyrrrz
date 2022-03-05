@@ -6,7 +6,7 @@
     <td align="center"><b>⚠ My country has been invaded by Russia and is currently at war ⚠</b></td>
   </tr>
   <tr>
-    <td align="center">All interactions on my GitHub repositories are suspended for the foreseeable future</td>
+    <td align="center">For the foreseeable future, all interactions on my GitHub repositories will be suspended</td>
   </tr>
   <tr>
     <td align="center">Be on the right side of history! <a href="https://tyrrrz.me">Click here</a> to learn more about the conflict and how you can help</td>
@@ -33,7 +33,7 @@ Hopefully they can be useful to you as well 😉
 <hr />
 
 <details>
-  <summary><b>GitHub Statistics</b></summary>
+  <summary><b>Repository stats</b></summary>
   <div>
     <img height="135px" src="https://github-readme-stats.vercel.app/api?username=tyrrrz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord">
     <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrrrz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord">
