@@ -5,6 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tyrrrz)
 [![Fuck Russia](https://img.shields.io/badge/FUCK-RUSSIA-000000?style=for-the-badge&logoColor=white)](https://twitter.com/Tyrrrz/status/1495972128977571848)
 
+❗❗❗ **My country, Ukraine, is currently facing a full-scale military invasion by Russia!** [Click here](https://tyrrrz.me) to learn more about the war and how you can help.
+
+For the period of war, all interactions on my GitHub repositories are suspended. Discord server will continue working in the meantime.
+
+**Glory to Ukraine!** 🇺🇦
+
+<hr />
+
 My name's **Oleksii** and I do open source for fun. The projects I have here are just things I've built at one point or another to make my life easier. Hopefully they can be useful to you as well 😉
 
 💛 If you want to support my open source activities, consider [making a donation](https://tyrrrz.me/donate)
