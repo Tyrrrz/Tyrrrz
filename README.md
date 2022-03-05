@@ -1,19 +1,27 @@
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png" width="200" height="120"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚠ My country has been invaded by Russia and is currently at war ⚠</b></td>
+  </tr>
+  <tr>
+    <td align="center">All interactions on my GitHub repositories are suspended for the foreseeable future</td>
+  </tr>
+  <tr>
+    <td align="center">Be on the right side of history! <a href="https://tyrrrz.me">Click here</a> to learn more about the conflict and how you can help</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Glory to Ukraine! 🇺🇦</b></td>
+  </tr>
+</table>
+
 ## Hello 👋
 
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://tyrrrz.me/blog)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tyrrrz)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tyrrrz)
 [![Fuck Russia](https://img.shields.io/badge/FUCK-RUSSIA-000000?style=for-the-badge&logoColor=white)](https://twitter.com/Tyrrrz/status/1495972128977571848)
-
-| ❗❗❗ **Ukraine, the country I was born and live in, is currently defending against a full-scale military invasion lead by Russian armed forces**. Don't be a silent observer -- stand on the right side of history! [Click here](https://tyrrrz.me) to learn more about the war and how you can help. |
-| --- |
-
-| For the period of instability caused by war, all interactions on my GitHub repositories are suspended. Discord server, however, will continue working as before. |
-| --- |
-
-**Glory to Ukraine!** 🇺🇦
-
-<hr />
 
 My name's **Oleksii** and I do open source for fun. The projects I have here are just things I've built at one point or another to make my life easier.
 Hopefully they can be useful to you as well 😉
@@ -27,7 +35,7 @@ Hopefully they can be useful to you as well 😉
 <details>
   <summary><b>GitHub Statistics</b></summary>
   <div>
-    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=tyrrrz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord" />
-    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrrrz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord" />
+    <img height="135px" src="https://github-readme-stats.vercel.app/api?username=tyrrrz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nord">
+    <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyrrrz&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nord">
   </div>
 </details>
