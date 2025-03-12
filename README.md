@@ -14,7 +14,7 @@ Hopefully they can be useful to you as well!
 
 - To see the list of my most popular projects, [visit my website](https://tyrrrz.me/projects).
 - To support the development of my projects, consider [donating](https://tyrrrz.me/donate).
-- To contact me, join my [Discord server](https://discord.gg/2SUWKFnHSm) or tag me on [Twitter](https://twitter.com/Tyrrrz).
+- To contact me, join my [Discord server](https://discord.gg/2SUWKFnHSm) or tag me on [Bluesky](https://bsky.app/profile/tyrrrz.me).
 
 ### Socials
 
