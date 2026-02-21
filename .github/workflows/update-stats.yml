@@ -1,0 +1,25 @@
+name: Update Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats image
+        run: curl -fsSL -o projects.svg https://tyrrrz.me/projects.svg
+
+      - name: Commit changes
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add projects.svg
+          git diff --staged --quiet || git commit -m 'Update stats'
+          git push

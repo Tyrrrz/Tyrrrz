@@ -23,4 +23,4 @@ Hopefully they can be useful to you as well!
 
 ### Stats
 
-![Stats](https://tyrrrz.me/projects.svg)
+![Stats](projects.svg)
