@@ -23,4 +23,4 @@ Hopefully they can be useful to you as well!
 
 ### Stats
 
-![GitHub Stats](https://tyrrrz.me/api/github-stats.svg)
+![Stats](https://tyrrrz.me/projects.svg)
