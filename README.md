@@ -24,4 +24,5 @@ Hopefully they can be useful to you as well!
 ### Stats
 
 [![Project stats](https://tyrrrz.me/projects.svg)](https://tyrrrz.me/projects)
+
 [![Donation stats](https://tyrrrz.me/donate.svg)](https://tyrrrz.me/donate)
