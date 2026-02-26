@@ -20,7 +20,9 @@ Hopefully they can be useful to you as well!
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2SUWKFnHSm)
 
 <details>
-  <summary>Stats</summary>
+  <summary>
+    <h2>Stats</h2>
+  </summary>
 
   [![Project stats](https://tyrrrz.me/projects.svg)](https://tyrrrz.me/projects)
   [![Donation stats](https://tyrrrz.me/donate.svg)](https://tyrrrz.me/donate)
