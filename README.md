@@ -18,6 +18,7 @@ Hopefully they can be useful to you as well!
 
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://tyrrrz.me/blog)
 [![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2SUWKFnHSm)
+[![Bluesky](https://img.shields.io/badge/bluesky-0F73FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/tyrrrz.me)
 
 <details>
   <summary>
