@@ -20,7 +20,7 @@ Hopefully they can be useful to you as well!
 - To support the development of my projects, consider [donating](https://tyrrrz.me/donate).
 - To contact me, join my [Discord server](https://discord.gg/2SUWKFnHSm) or tag me on [Bluesky](https://bsky.app/profile/tyrrrz.me).
 
-Currently, I'm serving in the AFU so I may be (very) slow to respond.
+Currently, I'm serving in the 🪖 AFU so I may be (very) slow to respond.
 Please keep that in mind when opening issues or messaging me.
 
 <details>
