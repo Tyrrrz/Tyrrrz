@@ -8,10 +8,6 @@
 
 ## 👋 Hi there!
 
-[![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://tyrrrz.me/blog)
-[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2SUWKFnHSm)
-[![Bluesky](https://img.shields.io/badge/bluesky-0F73FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/tyrrrz.me)
-
 My name is **Oleksii** and I do open source for fun.
 The projects you will find on this profile are just random things I've built at one point or another to make my life easier.
 Hopefully they can be useful to you as well!
@@ -23,12 +19,18 @@ Hopefully they can be useful to you as well!
 Currently, I'm serving in the 🪖 AFU so I may be (very) slow to respond.
 Please keep that in mind when opening issues or messaging me.
 
-<details>
-  <summary>
-    <h2>Stats</h2>
-  </summary>
+### Blog
 
-  [![Project stats](https://tyrrrz.me/projects.svg)](https://tyrrrz.me/projects)
-  [![Donation stats](https://tyrrrz.me/donate.svg)](https://tyrrrz.me/donate)
+- [Prefer Fakes Over Mocks](https://tyrrrz.me/blog/fakes-over-mocks)
+- [Pure-Impure Segregation Principle](https://tyrrrz.me/blog/pure-impure-segregation-principle)
+- [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
+- [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
+- [Fluent Generics in C#](https://tyrrrz.me/blog/fluent-generics)
+- [Monadic Comprehension Syntax via LINQ in C#](https://tyrrrz.me/blog/monadic-comprehension-via-linq)
+- [Simulating Target-Type Inference in C#](https://tyrrrz.me/blog/target-type-inference)
+- [See more...](https://tyrrrz.me/blog)
 
-</details>
+### Stats
+
+[![Project stats](https://tyrrrz.me/projects.svg)](https://tyrrrz.me/projects)
+[![Donation stats](https://tyrrrz.me/donate.svg)](https://tyrrrz.me/donate)
