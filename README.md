@@ -21,13 +21,13 @@ Please keep that in mind when opening issues or messaging me.
 
 ### Blog
 
-- [Prefer Fakes Over Mocks](https://tyrrrz.me/blog/fakes-over-mocks)
-- [Pure-Impure Segregation Principle](https://tyrrrz.me/blog/pure-impure-segregation-principle)
-- [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated)
-- [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited)
-- [Fluent Generics in C#](https://tyrrrz.me/blog/fluent-generics)
-- [Monadic Comprehension Syntax via LINQ in C#](https://tyrrrz.me/blog/monadic-comprehension-via-linq)
-- [Simulating Target-Type Inference in C#](https://tyrrrz.me/blog/target-type-inference)
+- [Prefer Fakes Over Mocks](https://tyrrrz.me/blog/fakes-over-mocks) • October 13, 2020
+- [Pure-Impure Segregation Principle](https://tyrrrz.me/blog/pure-impure-segregation-principle) • August 24, 2020
+- [Unit Testing is Overrated](https://tyrrrz.me/blog/unit-testing-is-overrated) • July 7, 2020
+- [Reverse-Engineering YouTube: Revisited](https://tyrrrz.me/blog/reverse-engineering-youtube-revisited) • February 4, 2023
+- [Fluent Generics in C#](https://tyrrrz.me/blog/fluent-generics) • November 17, 2020
+- [Monadic Comprehension Syntax via LINQ in C#](https://tyrrrz.me/blog/monadic-comprehension-via-linq) • June 1, 2021
+- [Simulating Target-Type Inference in C#](https://tyrrrz.me/blog/target-type-inference) • March 10, 2020
 - [See more...](https://tyrrrz.me/blog)
 
 ### Stats
