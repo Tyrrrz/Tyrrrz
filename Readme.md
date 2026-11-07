@@ -28,5 +28,5 @@ Please keep that in mind when opening issues or messaging me.
 
 ### Stats
 
-[![Project stats](https://tyrrrz.me/projects.svg)](https://tyrrrz.me/projects)
-[![Donation stats](https://tyrrrz.me/donate.svg)](https://tyrrrz.me/donate)
+<a href="https://tyrrrz.me/projects"><img src="https://tyrrrz.me/projects.svg" alt="Project stats" width="40%" /></a>
+<a href="https://tyrrrz.me/donate"><img src="https://tyrrrz.me/donate.svg" alt="Donation stats" width="40%" /></a>
