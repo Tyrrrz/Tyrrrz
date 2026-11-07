@@ -1,4 +1,4 @@
-<a href="https://tyrrrz.me/ukraine"><img src="./assets/ukraine.svg" width="100%" alt="Thank you for supporting Ukraine!" /></a>
+<a href="https://tyrrrz.me/ukraine"><img src="./ukraine.svg" width="100%" alt="Thank you for supporting Ukraine!" /></a>
 
 ---
 
