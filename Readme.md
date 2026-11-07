@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://tyrrrz.me/ukraine">
-    <img src="ukraine.png">
-  </a>
-</p>
+<a href="https://tyrrrz.me/ukraine"><img src="./ukraine.svg" width="100%" alt="Thank you for supporting Ukraine!" /></a>
 
 ---
 
